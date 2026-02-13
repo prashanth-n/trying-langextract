@@ -1,0 +1,13 @@
+[project]
+name = "trying-langextract"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "langextract>=1.1.1",
+    "pymupdf>=1.27.1",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+]
